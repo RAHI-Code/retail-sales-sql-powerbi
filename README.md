@@ -42,3 +42,11 @@ Star schema:
 - dim_product
 - dim_customer
 - dim_country
+
+
+## How To Run
+
+1. Place dataset inside /data
+2. Run:
+   python scripts/build_sqlite_warehouse.py
+3. Open Power BI file inside /powerbi
