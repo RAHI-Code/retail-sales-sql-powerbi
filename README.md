@@ -11,7 +11,7 @@ End-to-end retail sales analytics project using:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](powerbi/dashboard_preview.png)
 
 ---
 
